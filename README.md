@@ -8,6 +8,15 @@ En este reposositorio vamos a almacenar todos los ejercicios del módulo.
 ##  Titulo2
 ## Titulo3
 
-     - Elemento de la lista 1
+- Elemento de la lista 1
 - Elemento de la lista 2
 - Elemento de la lista 3
+
+
+1. Elemento de la lista 1
+2. Elemento de la lista 2
+3. Elemento de la lista 3
+
+[ ] A
+[x] B
+[ ] C
